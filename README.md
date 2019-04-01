@@ -7,4 +7,4 @@
 * Also type any zoo animal you would like into the form provided and hit Add More! to render a new button of your choice of zoo animal.
 
 ### Thank you for visiting my github!  Enjoy playing with my webpage!
-Enjoy my webpage here: 
+Enjoy my webpage here: https://lucyq19.github.io/GiphyAPI/
