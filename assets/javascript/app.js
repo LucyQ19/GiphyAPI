@@ -1,4 +1,6 @@
-    var zooAnimals = ["Elephant", "Giraffe", "Koala Bear", "Kangaroo", "Monkey", "Otter", "Penguin", "Panda Bear", "Poloar Bear", "Zebra"];
+$(document).ready(function() {
+   
+   var zooAnimals = ["Elephant", "Giraffe", "Koala Bear", "Kangaroo", "Monkey", "Otter", "Penguin", "Panda Bear", "Poloar Bear", "Zebra"];
 
     function displayZooAnimals(e) {
  
@@ -68,3 +70,5 @@
  $(document).on("click", ".animal-Btn", displayZooAnimals);
  
  renderButtons();
+
+});
