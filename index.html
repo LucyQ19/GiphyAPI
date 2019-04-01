@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+    <title>GIFtastic</title>
+  </head>
+  <body>
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3 text center">Come Walk on the GIF side!</h1>
+      </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 text-center">
+              <h2>Click on a button here!</h2>
+              <br>
+                <div id="animal-buttons"></div>
+            </div>
+          </div>
+        <br>
+        <div class="row">
+          <div class="col-md-12 text-center">
+              <form>
+                  <label for="animal-form"><h3>Add Your Animals Here!</h3></label>
+                  <input type="text" class="form-control" id="animal-input" placeholder="Zoo Animal">
+                  <input class="btn btn-outline-success" id="add-animals" type="submit" value="Add!">
+                </form>
+          </div>
+        </div>
+        <br>
+        <div class="row" id="animals-gifs"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="assets/javascript/app.js"></script>
+
+    </body>
+</html>
