@@ -15,32 +15,41 @@
     <title>GIFtastic App</title>
   </head>
   <body>
-    <div class="jumbotron">
-      <div class="container">
-        <h1 class="display-3 text center">Come Walk on the GIF side!</h1>
-      </div>
-    </div>
-    <div class="container-fluid">
-        <div class="row">
+    <main>
+        <div class="jumbotron">
+          <div class="container">
+            <h1 class="display-3 text center">Come Walk on the GIF side!</h1>
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div class="row">
             <div class="col-md-12 text-center">
               <h2 id="button-text">Click on a button here!</h2>
-              <br>
+                <br>
                 <div id="animal-buttons"></div>
             </div>
           </div>
-        <br>
-        <div class="row">
-          <div class="col-md-12 text-center">
+            <br>
+          <div class="row">
+            <div class="col-md-12 text-center">
               <form>
-                  <label for="animal-form" id="add-text"><h3>Add Your Animals Here!</h3></label>
-                  <input type="text" class="form-control" id="animal-input" placeholder="Zoo Animal">
-                  <input class="btn btn-outline-success" id="add-animals" type="submit" value="Add!">
-                </form>
+                <label for="animal-form" id="add-text"><h3>Add Your Animals Here!</h3></label>
+                <input type="text" class="form-control" id="animal-input" placeholder="Zoo Animal">
+                <input class="btn btn-outline-success" id="add-animals" type="submit" value="Add!">
+              </form>
+            </div>
           </div>
-        </div>
-        <br>
-        <div class="row" id="animals-gifs"></div>
-    </div>
+            <br>
+          <div class="row" id="animals-gifs"></div>
+      </div>
+    </main>
+
+
+    <footer>
+      <div class="container-fluid text-center">
+        <p id="footerText"> © LucyQ 2019</p>
+      </div> 
+    </footer>
 
     <script src="https://code.jquery.com/jquery.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
