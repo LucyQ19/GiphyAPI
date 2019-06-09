@@ -8,7 +8,7 @@ This app makes an AJAX call to the GIPHY API to create a webpage that populates 
 
 ### How My GIFtastic App Works
 
-* The user clicks on any button to populate the webpage with 10 gifs of an zoo animal of his/her choosing.
+* The user clicks on any button to populate the webpage with 10 static gifs of a zoo animal of his/her choice.
 * Next, the user clicks on any zoo animal gif to play it, and clicks again to pause it.
 * Finally, the user types any zoo animal s/he would like into the form provided, and hit Add! to create a new button of a zoo animal of his/her choice.
 
