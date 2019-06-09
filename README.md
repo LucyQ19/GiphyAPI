@@ -4,9 +4,9 @@
 
 ### About my Website:
 
-This website uses the GIPHY API to create a dynamic webpage that populates with gifs of zoo animals of your choice.  The GIPHY API is called using AJAX, and jQuery is used to dynamically change the HTML of the website.
+This website uses the GIPHY API to create a dynamic webpage that populates with gifs of zoo animals of your choice.
 
-### How My GIF-tastic Website Works
+### How My GIFtastic Website Works
 
 * Click on any button to populate 10 gifs of that specific zoo animal.
 * Next, click on any zoo animal gif to play, and click again to pause it.
