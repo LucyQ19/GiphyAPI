@@ -1,10 +1,10 @@
-# giphyAPI GIF-tastic
+# giphyAPI GIFtastic Website
 
 ![Image of giphyAPI GIF-tastic](./assets/images/giphyAPI.png)
 
 ### About my Website:
 
-This website uses the GIPHY API to create a dynamic website that populates with gifs of zoo animals of your choice.  The GIPHY API is called using AJAX, and jQuery is used to dynamically change the HTML of the website.
+This website uses the GIPHY API to create a dynamic webpage that populates with gifs of zoo animals of your choice.  The GIPHY API is called using AJAX, and jQuery is used to dynamically change the HTML of the website.
 
 ### How My GIF-tastic Website Works
 
