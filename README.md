@@ -4,7 +4,7 @@
 
 ### About my App:
 
-This app uses the GIPHY API to create a dynamic website that populates with gifs of zoo animals of your choice.
+This app uses the GIPHY API to create a webpage that populates with gifs of zoo animals of your choice.
 
 ### How My GIFtastic App Works
 
