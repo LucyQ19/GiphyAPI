@@ -12,7 +12,7 @@ This app uses the GIPHY API to create a dynamic website that populates with gifs
 * Next, click on any zoo animal gif to play, and click again to pause it.
 * Finally, type any zoo animal you would like into the form provided and hit Add! to create a new button of a zoo animal of your choice.
 
-### Technologies Used for this Website:
+### Technologies Used for this App:
 
 * Bootstrap, 
 * JQuery, 
