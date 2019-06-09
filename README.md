@@ -8,9 +8,9 @@ This app uses the GIPHY API to create a dynamic website that populates with gifs
 
 ### How My GIFtastic App Works
 
-* Click on any button to populate 10 gifs of that specific zoo animal.
-* Next, click on any zoo animal gif to play, and click again to pause it.
-* Finally, type any zoo animal you would like into the form provided and hit Add! to create a new button of a zoo animal of your choice.
+* Click on any zoo animal button to populate 10 gifs of that specific zoo animal.
+* Next, click on any zoo animal gif to play, and click again to pause.
+* Finally, type any zoo animal you would like into the form provided, and hit Add! to create a new button of a zoo animal of your choice.
 
 ### Technologies Used for this App:
 
